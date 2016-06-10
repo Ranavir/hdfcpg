@@ -1,0 +1,35 @@
+html,body{
+	width:100%;
+	height:100%;
+	background-color: antiquewhite;
+}
+.payment_div{
+	background-color: beige;
+    text-align: center;
+    padding: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.payment_heading{
+	text-align: center;
+    height: 15%;
+    background-color: burlywood;
+    width: 100%;
+    font-size: xx-large;
+    font-family: cursive;
+    color: aquamarine;
+    margin-bottom: 1%;
+    min-height: 80px;
+    padding-top: 10px;
+}
+.post_payment_div{
+	background-color: beige;
+	text-align: center;
+    padding: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.post_payment_div label{
+	color: blue;
+    font-size: larger;
+}
